@@ -1,0 +1,3 @@
+Link to Repository: https://github.com/AdrianGeorgeM/Task
+- Added comments for complex logic sections.
+- Refactored function names for clarity.
